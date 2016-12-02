@@ -1,0 +1,22 @@
+{
+  "name": "react-template-loader",
+  "version": "1.0.1",
+  "description": "react-template-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-template-loader"
+  ],
+  "author": {
+    "name": "wisdomofgod"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "react-template-loader@1.0.0",
+  "_shasum": "e13dadc08dbbb5d4bfbb9516426088de7600a5c4",
+  "_from": "react-template-loader@latest",
+  "_resolved": "file:node_modules/react-template-loader"
+}
