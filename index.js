@@ -28,7 +28,7 @@ module.exports = function(source) {
 	var newSource = source.replace(templateReg, function(a,b,c) {
 		return `${b} function() \{ return ${c} \}`;
 	}).replace(templateUrlReg, function(a,b,c) {
-		return "template: function() \{ " + getConent(c) + " \}";
+		return "template: function() \{ return " + getConent(c) + " \}";
 	}).replace(lastReg, function(a,b) {
 		return b;
 	});
