@@ -1,6 +1,6 @@
 {
   "name": "react-template-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react-template-loader",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "_id": "react-template-loader@1.0.0",
   "_shasum": "e13dadc08dbbb5d4bfbb9516426088de7600a5c4",
   "_from": "react-template-loader@latest",
-  "_resolved": "file:node_modules/react-template-loader"
+  "_resolved": "file:node_modules/react-template-loader",
+  "homepage": "https://github.com/wisdomofgod/string-jsx"
 }
